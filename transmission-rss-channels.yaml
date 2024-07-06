@@ -1,0 +1,15 @@
+# - url: <url>
+#   rules:
+#     - match: Oshi no Ko
+#       case_insensitive: false
+#       regex: false
+
+- url: https://subsplease.org/rss/?r=1080
+  rules:
+    #
+    # 2024/3
+    #
+    # Thu. 00:00
+    - match: Oshi no Ko
+    # Sat. 02:30
+    - match: Dungeon no Naka no Hito
