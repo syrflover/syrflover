@@ -42,9 +42,9 @@
     # https://anissia.net/anime?animeNo=2769
     - match: Dungeon no Naka no Hito
 
-    # Sat. 에텔레로사
+    # Sat. 23:00. 에텔레로사
     # https://anissia.net/anime?animeNo=2889
-    # - match: mobkara FIXME
+    - match: Mob kara Hajimaru Tansaku Eiyuutan
 
     # Sat. 23:00. 에텔레로사
     # https://anissia.net/anime?animeNo=2870
