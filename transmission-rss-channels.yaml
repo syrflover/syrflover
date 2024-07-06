@@ -46,9 +46,17 @@
     # https://anissia.net/anime?animeNo=2889
     # - match: mobkara FIXME
 
-    # Sat. 23:30. 에텔레로사
+    # Sat. 23:00. 에텔레로사
     # https://anissia.net/anime?animeNo=2870
     - match: "Monogatari Series – Off & Monster Season"
+
+    # Sat. 23:30. 코코렛
+    # https://anissia.net/anime?animeNo=2914
+    - match: Tensui no Sakuna-hime
+
+    # Sun. 01:00.
+    # https://anissia.net/anime?animeNo=2770
+    - match: Nige Jouzu no Wakagimi
 
     #
     # 2024/2
