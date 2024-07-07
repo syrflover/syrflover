@@ -10,9 +10,17 @@
     # 2024/3
     #
 
-    # Mon. 냥키치
+    # Mon. 00:00. 코코렛
+    # https://anissia.net/anime?animeNo=2922
+    - match: Shikanoko Nokonoko Koshitantan
+
+    # Mon. 00:15. 냥키치
     # https://anissia.net/anime?animeNo=2823
-    # - match: narenare FIXME
+    - match: Na Nare Hana Nare
+
+    # Mon. 02:30. 에텔레로사
+    # https://anissia.net/anime?animeNo=2921
+    - match: Isekai Yururi Kikou
 
     # Mon. 에텔레로사
     # https://anissia.net/anime?animeNo=2878
@@ -21,10 +29,6 @@
     # Tue. 에텔레로사
     # https://anissia.net/anime?animeNo=2451
     # - match: isekai shikkaku FIXME
-
-    # Wed. 코코렛
-    # https://anissia.net/anime?animeNo=2922
-    # - match: shikanoko FIXME
 
     # Thu. 00:00. 카이란
     # https://anissia.net/anime?animeNo=2716
@@ -48,7 +52,7 @@
 
     # Sat. 23:00. 에텔레로사
     # https://anissia.net/anime?animeNo=2870
-    - match: "Monogatari Series – Off & Monster Season"
+    - match: "Monogatari Series - Off & Monster Season"
 
     # Sat. 23:30. 코코렛
     # https://anissia.net/anime?animeNo=2914
