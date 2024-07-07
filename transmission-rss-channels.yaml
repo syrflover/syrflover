@@ -42,6 +42,10 @@
     # https://anissia.net/anime?animeNo=2830
     - match: Ore wa Subete wo Parry suru
 
+    # Fri. 22:30. 에텔레로사
+    # https://anissia.net/anime?animeNo=2894
+    - match: 2.5-jigen no Ririsa
+
     # Sat. 02:30. 별명따위
     # https://anissia.net/anime?animeNo=2769
     - match: Dungeon no Naka no Hito
