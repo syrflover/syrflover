@@ -46,6 +46,10 @@
     # https://anissia.net/anime?animeNo=2830
     - match: Ore wa Subete wo Parry suru
 
+    # Fri. 01:30. 냥키치
+    # https://anissia.net/anime?animeNo=2692
+    - match: Giji Harem
+
     # Fri. 22:30. 에텔레로사
     # https://anissia.net/anime?animeNo=2894
     - match: 2.5-jigen no Ririsa
