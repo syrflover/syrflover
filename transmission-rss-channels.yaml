@@ -5,7 +5,9 @@
 #       regex: false
 
 # *
-
+- url: https://nyaa.si/?page=rss&q=%5Bsubsplease%5D+megami+no+cafe+terrace+1080&c=0_0&f=0
+  rules:
+    - match: "-"
 # *
 
 - url: https://subsplease.org/rss/?r=1080
@@ -45,6 +47,10 @@
     # Fri. 01:30. 냥키치
     # https://anissia.net/anime?animeNo=2692
     - match: Giji Harem
+
+    # Fri. 03:15. 냥키치
+    # https://anissia.net/anime?animeNo=2709
+    - match: Megami no Cafe Terrace
 
     # Fri. 22:30. 에텔레로사
     # https://anissia.net/anime?animeNo=2894
