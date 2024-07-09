@@ -4,6 +4,10 @@
 #       case_insensitive: false
 #       regex: false
 
+- url: https://nyaa.si/?page=rss&q=%5Bsubsplease%5D+Tensei+Kizoku%2C+Kantei+Skill+de+Nariagaru+1080&c=0_0&f=0
+  rules:
+    - match: "-"
+
 - url: https://subsplease.org/rss/?r=1080
   rules:
     #
@@ -17,10 +21,6 @@
     # Mon. 00:15. 냥키치
     # https://anissia.net/anime?animeNo=2823
     - match: Na Nare Hana Nare
-
-    # Mon. 02:30. 에텔레로사
-    # https://anissia.net/anime?animeNo=2921
-    - match: Isekai Yururi Kikou
 
     # Mon. 22:30. 에텔레로사
     # https://anissia.net/anime?animeNo=2878
