@@ -28,9 +28,9 @@
     # https://anissia.net/anime?animeNo=2878
     - match: Mayonaka Punch
 
-    # Tue. 에텔레로사
+    # Tue. 00:00. 에텔레로사
     # https://anissia.net/anime?animeNo=2451
-    # - match: isekai shikkaku FIXME
+    - match: Isekai Shikkaku
 
     # Thu. 00:00. 카이란
     # https://anissia.net/anime?animeNo=2716
