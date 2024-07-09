@@ -5,9 +5,7 @@
 #       regex: false
 
 # *
-- url: https://nyaa.si/?page=rss&q=%5Bsubsplease%5D+Tensei+Kizoku%2C+Kantei+Skill+de+Nariagaru+1080&c=0_0&f=0
-  rules:
-    - match: "-"
+
 # *
 
 - url: https://subsplease.org/rss/?r=1080
