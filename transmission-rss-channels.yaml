@@ -5,9 +5,9 @@
 #       regex: false
 
 # *
-# - url:
-#   rules:
-#     - match: "-"
+- url: https://nyaa.si/?page=rss&q=%5Berai-raws%5D+girls+band+cry+%5B1080p%5D%5BFRE%5D&c=1_0&f=0
+  rules:
+    - match: "[1080p][FRE]"
 # *
 
 - url: https://subsplease.org/rss/?r=1080
