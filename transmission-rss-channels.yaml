@@ -1,93 +1,93 @@
-# - url: <url>
+# # - url: <url>
+# #   rules:
+# #     - match: Oshi no Ko
+# #       case_insensitive: false
+# #       regex: false
+
+# # *
+# # - url:
+# #   rules:
+# #     - match: "-"
+# # *
+
+# - url: https://subsplease.org/rss/?r=1080
 #   rules:
+#     #
+#     # Q. 2024/3
+#     #
+
+#     # Mon. 00:00. 코코렛
+#     # https://anissia.net/anime?animeNo=2922
+#     - match: Shikanoko Nokonoko Koshitantan
+
+#     # Mon. 00:15. 냥키치
+#     # https://anissia.net/anime?animeNo=2823
+#     - match: Na Nare Hana Nare
+
+#     # Mon. 22:30. 에텔레로사
+#     # https://anissia.net/anime?animeNo=2878
+#     - match: Mayonaka Punch
+
+#     # Tue. 23:45. 오즈키
+#     # https://anissia.net/anime?animeNo=2820
+#     - match: Katsute Mahou Shoujo to Aku wa Tekitai shiteita
+
+#     # Wed. 00:00. 에텔레로사
+#     # https://anissia.net/anime?animeNo=2451
+#     - match: Isekai Shikkaku
+
+#     # Thu. 00:00. 카이란
+#     # https://anissia.net/anime?animeNo=2716
 #     - match: Oshi no Ko
-#       case_insensitive: false
-#       regex: false
 
-# *
-# - url:
-#   rules:
-#     - match: "-"
-# *
+#     # Thu. 00:00. 별명따위
+#     # https://anissia.net/anime?animeNo=2672
+#     - match: Tokidoki Bosotto Russia-go de Dereru Tonari no Alya-san
 
-- url: https://subsplease.org/rss/?r=1080
-  rules:
-    #
-    # Q. 2024/3
-    #
+#     # Fri. 00:00. 에텔레로사
+#     # https://anissia.net/anime?animeNo=2830
+#     - match: Ore wa Subete wo Parry suru
 
-    # Mon. 00:00. 코코렛
-    # https://anissia.net/anime?animeNo=2922
-    - match: Shikanoko Nokonoko Koshitantan
+#     # Fri. 01:30. 갓나오
+#     # https://anissia.net/anime?animeNo=2692
+#     - match: Giji Harem
 
-    # Mon. 00:15. 냥키치
-    # https://anissia.net/anime?animeNo=2823
-    - match: Na Nare Hana Nare
+#     # Fri. 22:30. 에텔레로사
+#     # https://anissia.net/anime?animeNo=2894
+#     - match: 2.5-jigen no Ririsa
 
-    # Mon. 22:30. 에텔레로사
-    # https://anissia.net/anime?animeNo=2878
-    - match: Mayonaka Punch
+#     # Sat. 02:30. 별명따위
+#     # https://anissia.net/anime?animeNo=2769
+#     - match: Dungeon no Naka no Hito
 
-    # Tue. 23:45. 오즈키
-    # https://anissia.net/anime?animeNo=2820
-    - match: Katsute Mahou Shoujo to Aku wa Tekitai shiteita
+#     # Sat. 23:00. 에텔레로사
+#     # https://anissia.net/anime?animeNo=2889
+#     - match: Mob kara Hajimaru Tansaku Eiyuutan
 
-    # Wed. 00:00. 에텔레로사
-    # https://anissia.net/anime?animeNo=2451
-    - match: Isekai Shikkaku
+#     # Sat. 23:00. 에텔레로사
+#     # https://anissia.net/anime?animeNo=2870
+#     - match: "Monogatari Series - Off & Monster Season"
 
-    # Thu. 00:00. 카이란
-    # https://anissia.net/anime?animeNo=2716
-    - match: Oshi no Ko
+#     # Sat. 23:30. 코코렛
+#     # https://anissia.net/anime?animeNo=2914
+#     - match: Tensui no Sakuna-hime
 
-    # Thu. 00:00. 별명따위
-    # https://anissia.net/anime?animeNo=2672
-    - match: Tokidoki Bosotto Russia-go de Dereru Tonari no Alya-san
+#     # Sun. 01:00. 오즈키
+#     # https://anissia.net/anime?animeNo=2770
+#     - match: Nige Jouzu no Wakagimi
 
-    # Fri. 00:00. 에텔레로사
-    # https://anissia.net/anime?animeNo=2830
-    - match: Ore wa Subete wo Parry suru
+#     # Sun. 18:30. 별명따위
+#     # https://anissia.net/anime?animeNo=2895
+#     - match: Tsue to Tsurugi no Wistoria
 
-    # Fri. 01:30. 갓나오
-    # https://anissia.net/anime?animeNo=2692
-    - match: Giji Harem
+#     #
+#     # Q. 2024/2
+#     #
 
-    # Fri. 22:30. 에텔레로사
-    # https://anissia.net/anime?animeNo=2894
-    - match: 2.5-jigen no Ririsa
+#     # Tue. 03:00. 에텔레로사
+#     # https://anissia.net/anime?animeNo=2269
+#     - match: Spice and Wolf (2024)
 
-    # Sat. 02:30. 별명따위
-    # https://anissia.net/anime?animeNo=2769
-    - match: Dungeon no Naka no Hito
-
-    # Sat. 23:00. 에텔레로사
-    # https://anissia.net/anime?animeNo=2889
-    - match: Mob kara Hajimaru Tansaku Eiyuutan
-
-    # Sat. 23:00. 에텔레로사
-    # https://anissia.net/anime?animeNo=2870
-    - match: "Monogatari Series - Off & Monster Season"
-
-    # Sat. 23:30. 코코렛
-    # https://anissia.net/anime?animeNo=2914
-    - match: Tensui no Sakuna-hime
-
-    # Sun. 01:00. 오즈키
-    # https://anissia.net/anime?animeNo=2770
-    - match: Nige Jouzu no Wakagimi
-
-    # Sun. 18:30. 별명따위
-    # https://anissia.net/anime?animeNo=2895
-    - match: Tsue to Tsurugi no Wistoria
-
-    #
-    # Q. 2024/2
-    #
-
-    # Tue. 03:00. 에텔레로사
-    # https://anissia.net/anime?animeNo=2269
-    - match: Spice and Wolf (2024)
-
-    # Sat. 00:30. 별명따위
-    # https://anissia.net/anime?animeNo=2593
-    - match: Tensei Shitara Slime Datta Ken
+#     # Sat. 00:30. 별명따위
+#     # https://anissia.net/anime?animeNo=2593
+#     - match: Tensei Shitara Slime Datta Ken
