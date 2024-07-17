@@ -45,7 +45,8 @@
     # Thu. 00:00. 카이란
     # https://anissia.net/anime?animeNo=2716
     - match: Oshi no Ko
-      directory: Oshi no Ko/Season 01
+      directory: Oshi no Ko/Season 02
+      episode: -11 # E12=E01
 
     # Thu. 00:00. 별명따위
     # https://anissia.net/anime?animeNo=2672
