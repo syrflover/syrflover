@@ -22,7 +22,7 @@
     - match: Shikanoko Nokonoko Koshitantan
       directory: Shikanoko Nokonoko Koshitantan/Season 01
 
-    # Mon. 00:15. 냥키치
+    # Mon. 00:15. 갓나오
     # https://anissia.net/anime?animeNo=2823
     - match: Na Nare Hana Nare
       directory: Na Nare Hana Nare/Season 01
@@ -32,7 +32,7 @@
     - match: Mayonaka Punch
       directory: Mayonaka Punch/Season 01
 
-    # Tue. 23:45. 오즈키
+    # Tue. 23:45. 갓나오
     # https://anissia.net/anime?animeNo=2820
     - match: Katsute Mahou Shoujo to Aku wa Tekitai shiteita
       directory: Katsute Mahou Shoujo to Aku wa Tekitai shiteita/Season 01
@@ -88,7 +88,7 @@
     - match: Tensui no Sakuna-hime
       directory: Tensui no Sakuna-hime/Season 01
 
-    # Sun. 01:00. 오즈키
+    # Sun. 01:00. 스파이스
     # https://anissia.net/anime?animeNo=2770
     - match: Nige Jouzu no Wakagimi
       directory: Nige Jouzu no Wakagimi/Season 01
