@@ -17,76 +17,16 @@
     # Q. 2024/3
     #
 
-    # Mon. 00:00. 코코렛
-    # https://anissia.net/anime?animeNo=2922
-    - match: Shikanoko Nokonoko Koshitantan
-      directory: Shikanoko Nokonoko Koshitantan/Season 01
-
-    # Mon. 00:15. 갓나오
-    # https://anissia.net/anime?animeNo=2823
-    - match: Na Nare Hana Nare
-      directory: Na Nare Hana Nare/Season 01
-
-    # Mon. 22:30. 에텔레로사
-    # https://anissia.net/anime?animeNo=2878
-    - match: Mayonaka Punch
-      directory: Mayonaka Punch/Season 01
-
-    # Tue. 23:45. 갓나오
-    # https://anissia.net/anime?animeNo=2820
-    - match: Katsute Mahou Shoujo to Aku wa Tekitai shiteita
-      directory: Katsute Mahou Shoujo to Aku wa Tekitai shiteita/Season 01
-
-    # Wed. 00:00. 에텔레로사
-    # https://anissia.net/anime?animeNo=2451
-    - match: Isekai Shikkaku
-      directory: Isekai Shikkaku/Season 01
-
     # Thu. 00:00. 카이란
     # https://anissia.net/anime?animeNo=2716
     - match: Oshi no Ko
       directory: Oshi no Ko/Season 02
       episode: -11 # E12=E01
 
-    # Thu. 00:00. 별명따위
-    # https://anissia.net/anime?animeNo=2672
-    - match: Tokidoki Bosotto Russia-go de Dereru Tonari no Alya-san
-      directory: Tokidoki Bosotto Russia-go de Dereru Tonari no Alya-san/Season 01
-
-    # Fri. 00:00. 에텔레로사
-    # https://anissia.net/anime?animeNo=2830
-    - match: Ore wa Subete wo Parry suru
-      directory: Ore wa Subete wo Parry suru/Season 01
-
-    # Fri. 01:30. 갓나오
-    # https://anissia.net/anime?animeNo=2692
-    - match: Giji Harem
-      directory: Giji Harem/Season 01
-
     # Fri. 22:30. 에텔레로사
     # https://anissia.net/anime?animeNo=2894
     - match: 2.5-jigen no Ririsa
       directory: 2.5-jigen no Ririsa/Season 01
-
-    # Sat. 02:30. 별명따위
-    # https://anissia.net/anime?animeNo=2769
-    - match: Dungeon no Naka no Hito
-      directory: Dungeon no Naka no Hito/Season 01
-
-    # Sat. 23:00. 에텔레로사
-    # https://anissia.net/anime?animeNo=2889
-    - match: Mob kara Hajimaru Tansaku Eiyuutan
-      directory: Mob kara Hajimaru Tansaku Eiyuutan/Season 01
-
-    # Sat. 23:00. 에텔레로사
-    # https://anissia.net/anime?animeNo=2870
-    - match: Monogatari Series - Off & Monster Season
-      directory: Monogatari Series - Off & Monster Season/Season 01
-
-    # Sat. 23:30. 코코렛
-    # https://anissia.net/anime?animeNo=2914
-    - match: Tensui no Sakuna-hime
-      directory: Tensui no Sakuna-hime/Season 01
 
     # Sun. 01:00. 스파이스
     # https://anissia.net/anime?animeNo=2770
@@ -97,18 +37,3 @@
     # https://anissia.net/anime?animeNo=2895
     - match: Tsue to Tsurugi no Wistoria
       directory: Tsue to Tsurugi no Wistoria/Season 01
-
-    #
-    # Q. 2024/2
-    #
-
-    # Tue. 03:00. 에텔레로사
-    # https://anissia.net/anime?animeNo=2269
-    - match: Spice and Wolf (2024)
-      directory: Spice and Wolf (2024)/Season 01
-
-    # Sat. 00:30. 별명따위
-    # https://anissia.net/anime?animeNo=2593
-    - match: Tensei Shitara Slime Datta Ken
-      directory: Tensei Shitara Slime Datta Ken/Season 03
-      episode: -48 # E49=E01
