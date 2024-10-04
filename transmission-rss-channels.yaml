@@ -42,8 +42,3 @@
     # https://anissia.net/anime?animeNo=2894
     - match: 2.5-jigen no Ririsa
       directory: 2.5-jigen no Ririsa/Season 01
-
-    # Sun. 01:00. 스파이스
-    # https://anissia.net/anime?animeNo=2770
-    - match: Nige Jouzu no Wakagimi
-      directory: Nige Jouzu no Wakagimi/Season 01
