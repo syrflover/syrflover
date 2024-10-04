@@ -14,6 +14,21 @@
   directory: /downloads/Shows (current)
   rules:
     #
+    # Q. 2024/4
+    #
+
+    # Wed. 23:30. 카이란
+    # https://anissia.net/anime?animeNo=2681
+    - match: Re Zero kara Hajimeru Isekai Seikatsu
+      directory: Re Zero kara Hajimeru Isekai Seikatsu/Season 03
+      episode: -50 # E51=01
+
+    # Sat. 01:30. ㅁㄹ
+    # https://anissia.net/anime?animeNo=2723
+    - match: Sword Art Online Alternative - Gun Gale Online S2
+      directory: Sword Art Online Alternative - Gun Gale Online/Season 02
+
+    #
     # Q. 2024/3
     #
 
