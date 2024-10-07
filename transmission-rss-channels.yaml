@@ -17,6 +17,16 @@
     # Q. 2024/4
     #
 
+    # Mon. 00:45. 코코렛
+    # https://anissia.net/anime?animeNo=3021
+    - match: Puniru wa Kawaii Slime
+      directory: Puniru wa Kawaii Slime/Season 01
+
+    # Tue. 01:00. 에텔레로사
+    # https://anissia.net/anime?animeNo=2959
+    - match: Wajutsushi
+      directory: Wajutsushi/Season 01
+
     # Wed. 23:30. 카이란
     # https://anissia.net/anime?animeNo=2681
     - match: Re Zero kara Hajimeru Isekai Seikatsu
@@ -28,15 +38,14 @@
     - match: Sword Art Online Alternative - Gun Gale Online S2
       directory: Sword Art Online Alternative - Gun Gale Online/Season 02
 
+    # Sun. 03:45. 별명따위
+    # https://anissia.net/anime?animeNo=2851
+    - match: Kimi wa Meido-sama
+      directory: Kimi wa Meido-sama/Season 01
+
     #
     # Q. 2024/3
     #
-
-    # Thu. 00:00. 카이란
-    # https://anissia.net/anime?animeNo=2716
-    - match: Oshi no Ko
-      directory: Oshi no Ko/Season 02
-      episode: -11 # E12=E01
 
     # Fri. 22:30. 에텔레로사
     # https://anissia.net/anime?animeNo=2894
