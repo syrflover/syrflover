@@ -38,6 +38,11 @@
     - match: Sword Art Online Alternative - Gun Gale Online S2
       directory: Sword Art Online Alternative - Gun Gale Online/Season 02
 
+    # Sat. 03:30. 에텔레로사
+    # https://anissia.net/anime?animeNo=2404
+    - match: Mahoutsukai ni Narenakatta Onnanoko no Hanashi
+      directory: Mahoutsukai ni Narenakatta Onnanoko no Hanashi/Season 01
+
     # Sun. 03:45. 별명따위
     # https://anissia.net/anime?animeNo=2851
     - match: Kimi wa Meido-sama
