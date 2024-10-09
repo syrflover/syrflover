@@ -27,6 +27,11 @@
     - match: Wajutsushi
       directory: Wajutsushi/Season 01
 
+    # Tue. 02:30. 갓나오
+    # https://anissia.net/anime?animeNo=2183
+    - match: Seirei Gensouki S2
+      directory: Seirei Gensouki/Season 02
+
     # Wed. 23:30. 카이란
     # https://anissia.net/anime?animeNo=2681
     - match: Re Zero kara Hajimeru Isekai Seikatsu
