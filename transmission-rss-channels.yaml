@@ -17,47 +17,8 @@
     # Q. 2024/4
     #
 
-    # Mon. 00:45. 코코렛
-    # https://anissia.net/anime?animeNo=3021
-    - match: Puniru wa Kawaii Slime
-      directory: Puniru wa Kawaii Slime/Season 01
-
-    # Tue. 01:00. 에텔레로사
-    # https://anissia.net/anime?animeNo=2959
-    - match: Wajutsushi
-      directory: Wajutsushi/Season 01
-
-    # Tue. 02:30. 갓나오
-    # https://anissia.net/anime?animeNo=2183
-    - match: Seirei Gensouki S2
-      directory: Seirei Gensouki/Season 02
-
     # Wed. 23:30. 카이란
     # https://anissia.net/anime?animeNo=2681
     - match: Re Zero kara Hajimeru Isekai Seikatsu
       directory: Re Zero kara Hajimeru Isekai Seikatsu/Season 03
       episode: -50 # E51=01
-
-    # Sat. 01:30. ㅁㄹ
-    # https://anissia.net/anime?animeNo=2723
-    - match: Sword Art Online Alternative - Gun Gale Online S2
-      directory: Sword Art Online Alternative - Gun Gale Online/Season 02
-
-    # Sat. 03:30. 에텔레로사
-    # https://anissia.net/anime?animeNo=2404
-    - match: Mahoutsukai ni Narenakatta Onnanoko no Hanashi
-      directory: Mahoutsukai ni Narenakatta Onnanoko no Hanashi/Season 01
-
-    # Sun. 03:45. 별명따위
-    # https://anissia.net/anime?animeNo=2851
-    - match: Kimi wa Meido-sama
-      directory: Kimi wa Meido-sama/Season 01
-
-    #
-    # Q. 2024/3
-    #
-
-    # Fri. 22:30. 에텔레로사
-    # https://anissia.net/anime?animeNo=2894
-    - match: 2.5-jigen no Ririsa
-      directory: 2.5-jigen no Ririsa/Season 01
