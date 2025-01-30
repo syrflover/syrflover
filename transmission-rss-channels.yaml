@@ -10,9 +10,33 @@
 #     - match: "-"
 # *
 
+- url: https://nyaa.si/?page=rss&q=%5Bnew-raws%5D+1080p+NF&c=1_4&f=0
+  directory: /downloads/Shows (current)
+  rules:
+    #
+    # Q. 2025/1
+    #
+
+    # Sat. 23:00. Sydeny
+    - match: SAKAMOTO DAYS
+      directory: Sakamoto Days/Season 01
+
+    # Mon. 23:00. Sydeny
+    - match: Watashi no Shiawase na Kekkon S2
+      directory: Watashi no Shiawase na Kekkon/Season 02
+
 - url: https://subsplease.org/rss/?r=1080
   directory: /downloads/Shows (current)
   rules:
+    #
+    # Q. 2025/1
+    #
+
+    # Sat. 02:15. 에텔레로사
+    - match: Kusuriya no Hitorigoto
+      directory: Kusuriya no Hitorigoto/Season 02
+      episode: -24 # E25=01
+
     #
     # Q. 2024/4
     #
