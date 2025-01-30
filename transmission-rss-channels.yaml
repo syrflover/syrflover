@@ -17,13 +17,13 @@
     # Q. 2025/1
     #
 
-    # Sat. 23:00. Sydeny
-    - match: SAKAMOTO DAYS
-      directory: Sakamoto Days/Season 01
-
     # Mon. 23:00. Sydeny
     - match: Watashi no Shiawase na Kekkon S2
       directory: Watashi no Shiawase na Kekkon/Season 02
+
+    # Sat. 23:00. Sydeny
+    - match: SAKAMOTO DAYS
+      directory: Sakamoto Days/Season 01
 
 - url: https://subsplease.org/rss/?r=1080
   directory: /downloads/Shows (current)
