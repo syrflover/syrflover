@@ -18,10 +18,12 @@
     #
 
     # Mon. 23:00. Sydeny
+    # https://anissia.net/anime?animeNo=2788
     - match: Watashi no Shiawase na Kekkon S2
       directory: Watashi no Shiawase na Kekkon/Season 02
 
     # Sat. 23:00. Sydeny
+    # https://anissia.net/anime?animeNo=2978
     - match: SAKAMOTO DAYS
       directory: Sakamoto Days/Season 01
 
@@ -33,6 +35,7 @@
     #
 
     # Sat. 02:15. 에텔레로사
+    # https://anissia.net/anime?animeNo=2948
     - match: Kusuriya no Hitorigoto
       directory: Kusuriya no Hitorigoto/Season 02
       episode: -24 # E25=01
