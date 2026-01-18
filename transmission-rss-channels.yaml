@@ -3,6 +3,7 @@
 #     - match: Oshi no Ko
 #       case_insensitive: false
 #       regex: false
+#       episode: -24 # E25=01
 
 # *
 # - url:
@@ -13,39 +14,16 @@
 - url: https://nyaa.si/?page=rss&q=%5Bnew-raws%5D+1080p+NF&c=1_4&f=0
   directory: /downloads/Shows (current)
   rules:
-    #
-    # Q. 2025/1
-    #
-
-    # Mon. 23:00. Sydeny
-    # https://anissia.net/anime?animeNo=2788
-    - match: Watashi no Shiawase na Kekkon S2
-      directory: Watashi no Shiawase na Kekkon/Season 02
-
-    # Sat. 23:00. Sydeny
-    # https://anissia.net/anime?animeNo=2978
-    - match: SAKAMOTO DAYS
-      directory: Sakamoto Days/Season 01
+  []
 
 - url: https://subsplease.org/rss/?r=1080
   directory: /downloads/Shows (current)
   rules:
     #
-    # Q. 2025/1
+    # Q. 2026/1
     #
 
-    # Sat. 02:15. 에텔레로사
-    # https://anissia.net/anime?animeNo=2948
-    - match: Kusuriya no Hitorigoto
-      directory: Kusuriya no Hitorigoto/Season 02
-      episode: -24 # E25=01
-
-    #
-    # Q. 2024/4
-    #
-
-    # Wed. 23:30. 카이란
-    # https://anissia.net/anime?animeNo=2681
-    - match: Re Zero kara Hajimeru Isekai Seikatsu
-      directory: Re Zero kara Hajimeru Isekai Seikatsu/Season 03
-      episode: -50 # E51=01
+    # Sat. 00:00. 카이란
+    # https://anissia.net/anime?animeNo=3102
+    - match: Sousou no Frieren S2
+      directory: Sousou no Frieren/Season 02
