@@ -11,10 +11,9 @@
 #     - match: "-"
 # *
 
-- url: https://nyaa.si/?page=rss&q=%5Bnew-raws%5D+1080p+NF&c=1_4&f=0
-  directory: /downloads/Shows (current)
-  rules:
-  []
+# - url: https://nyaa.si/?page=rss&q=%5Bnew-raws%5D+1080p+NF&c=1_4&f=0
+#   directory: /downloads/Shows (current)
+#   rules:
 
 - url: https://subsplease.org/rss/?r=1080
   directory: /downloads/Shows (current)
