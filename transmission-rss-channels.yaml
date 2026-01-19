@@ -22,6 +22,12 @@
     # Q. 2026/1
     #
 
+    # Tue. 01:00. 카이란
+    # https://anissia.net/anime?animeNo=2951
+    - match: Hime-sama Goumon no Jikan desu
+      directory: Hime-sama Goumon no Jikan desu/Season 02
+      episode: -12
+
     # Thu. 00:30. 하느
     # https://anissia.net/anime?animeNo=3074
     - match: Shibou Yuugi de Meshi wo Kuu.
