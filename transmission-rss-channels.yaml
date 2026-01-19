@@ -33,6 +33,11 @@
     - match: Shibou Yuugi de Meshi wo Kuu.
       directory: Shibou Yuugi de Meshi wo Kuu./Season 01
 
+    # Thu. 23:00. 별명따위
+    # https://anissia.net/anime?animeNo=2731
+    - match: Yuusha-kei ni Shosu
+      directory: Yuusha-kei ni Shosu/Season 01
+
     # Sat. 00:00. 카이란
     # https://anissia.net/anime?animeNo=3102
     - match: Sousou no Frieren S2
