@@ -42,3 +42,8 @@
     # https://anissia.net/anime?animeNo=3102
     - match: Sousou no Frieren S2
       directory: Sousou no Frieren/Season 02
+
+    # Sun. 17:30. C소라
+    # https://anissia.net/anime?animeNo=3166
+    - match: Seihantai na Kimi to Boku
+      directory: Seihantai na Kimi to Boku/Season 01
