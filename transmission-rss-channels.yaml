@@ -22,6 +22,11 @@
     # Q. 2026/1
     #
 
+    # Mon. 00:00. nothing
+    # https://anissia.net/anime?animeNo=3339
+    - match: Kizoku Tensei - Megumareta Umare kara Saikyou no Chikara wo Eru
+      directory: Kizoku Tensei - Megumareta Umare kara Saikyou no Chikara wo Eru
+
     # Tue. 01:00. 카이란
     # https://anissia.net/anime?animeNo=2951
     - match: Hime-sama Goumon no Jikan desu
