@@ -30,26 +30,10 @@
     # Q. 2026/1
     #
 
-    # Mon. 00:00. nothing
-    # https://anissia.net/anime?animeNo=3339
-    - match: Kizoku Tensei - Megumareta Umare kara Saikyou no Chikara wo Eru
-      directory: Kizoku Tensei - Megumareta Umare kara Saikyou no Chikara wo Eru/Season 01
-
-    # Tue. 01:00. 카이란
-    # https://anissia.net/anime?animeNo=2951
-    - match: Hime-sama Goumon no Jikan desu
-      directory: Hime-sama Goumon no Jikan desu/Season 02
-      episode: -12
-
     # Thu. 00:30. 하느
     # https://anissia.net/anime?animeNo=3074
     - match: Shibou Yuugi de Meshi wo Kuu.
       directory: Shibou Yuugi de Meshi wo Kuu./Season 01
-
-    # Thu. 23:00. 별명따위
-    # https://anissia.net/anime?animeNo=2731
-    - match: Yuusha-kei ni Shosu
-      directory: Yuusha-kei ni Shosu/Season 01
 
     # Sat. 00:00. 카이란
     # https://anissia.net/anime?animeNo=3102
