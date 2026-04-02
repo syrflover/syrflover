@@ -27,20 +27,16 @@
     - "[Batch]"
   rules:
     #
-    # Q. 2026/1
+    # Q. 2026/2
     #
 
-    # Thu. 00:30. 하느
-    # https://anissia.net/anime?animeNo=3074
-    - match: Shibou Yuugi de Meshi wo Kuu.
-      directory: Shibou Yuugi de Meshi wo Kuu./Season 01
+    # Sat. 00:30. 별명따위
+    # https://anissia.net/anime?animeNo=3100
+    - match: Tensei Shitara Slime Datta Ken
+      directory: Tensei Shitara Slime Datta Ken/Season 04
+      episode: -72
 
-    # Sat. 00:00. 카이란
-    # https://anissia.net/anime?animeNo=3102
-    - match: Sousou no Frieren S2
-      directory: Sousou no Frieren/Season 02
-
-    # Sun. 17:30. C소라
-    # https://anissia.net/anime?animeNo=3166
-    - match: Seihantai na Kimi to Boku
-      directory: Seihantai na Kimi to Boku/Season 01
+    # Sun. 01:30. 코코렛
+    # https://anissia.net/anime?animeNo=3252
+    - match: Shunkashuutou Daikousha - Haru no Mai
+      directory: Shunkashuutou Daikousha - Haru no Mai/Season 01
