@@ -46,11 +46,6 @@
       directory: Tensei Shitara Slime Datta Ken/Season 04
       episode: -72
 
-    # Sun. 00:30. none
-    # https://anissia.net/anime?animeNo=3366
-    - match: NEEDY GIRL OVERDOSE
-      directory: NEEDY GIRL OVERDOSE/Season 01
-
     # Sun. 01:00. none
     # https://anissia.net/anime?animeNo=3341
     - match: Yomi no Tsugai
@@ -65,3 +60,8 @@
     # https://anissia.net/anime?animeNo=3252
     - match: Shunkashuutou Daikousha - Haru no Mai
       directory: Shunkashuutou Daikousha - Haru no Mai/Season 01
+
+    # Sun. 17:30. 별명따위
+    # https://anissia.net/anime?animeNo=3103
+    - match: Tsue to Tsurugi no Wistoria
+      directory: Tsue to Tsurugi no Wistoria/Season 02
