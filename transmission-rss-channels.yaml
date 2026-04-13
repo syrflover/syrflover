@@ -56,11 +56,6 @@
     - match: Yomi no Tsugai
       directory: Yomi no Tsugai/Season 01
 
-    # Sun. 02:00. none
-    # https://anissia.net/anime?animeNo=3234
-    - match: Yuusha no Kuzu
-      directory: Yuusha no Kuzu/Season 01
-
     # Sun. 01:30. 코코렛
     # https://anissia.net/anime?animeNo=3252
     - match: Shunkashuutou Daikousha - Haru no Mai
