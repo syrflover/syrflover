@@ -45,6 +45,11 @@
     - match: Tongari Boushi no Atelier
       directory: Tongari Boushi no Atelier/Season 01
 
+    # Tue. 23:30. namelesssub
+    # https://anissia.net/anime?animeNo=3334
+    - match: MARRIAGETOXIN
+      directory: MARRIAGETOXIN/Season 01
+
     # Sat. 00:30. 별명따위
     # https://anissia.net/anime?animeNo=3100
     - match: Tensei Shitara Slime Datta Ken
