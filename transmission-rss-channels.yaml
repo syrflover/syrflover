@@ -50,6 +50,11 @@
     - match: MARRIAGETOXIN
       directory: MARRIAGETOXIN/Season 01
 
+    # Wed. 23:00. 카이란
+    - match: Re Zero kara Hajimeru Isekai Seikatsu
+      directory: Re Zero kara Hajimeru Isekai Seikatsu/Season 04
+      episode: -66
+
     # Sat. 00:30. 별명따위
     # https://anissia.net/anime?animeNo=3100
     - match: Tensei Shitara Slime Datta Ken
