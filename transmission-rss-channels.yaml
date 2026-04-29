@@ -82,6 +82,11 @@
     - match: Shunkashuutou Daikousha - Haru no Mai
       directory: Shunkashuutou Daikousha - Haru no Mai/Season 01
 
+    # Sat. 22:30. 에루샤
+    # https://anissia.net/anime?animeNo=3353
+    - match: Kanteishi (Kari)
+      directory: Kanteishi (Kari)/Season 01
+
     # Sun. 17:30. 별명따위
     # https://anissia.net/anime?animeNo=3103
     - match: Tsue to Tsurugi no Wistoria
