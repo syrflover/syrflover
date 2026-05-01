@@ -66,6 +66,11 @@
       directory: Re Zero kara Hajimeru Isekai Seikatsu/Season 04
       episode: -66
 
+    # Thu. 21:30. 에루샤
+    # https://anissia.net/anime?animeNo=3423
+    - match: Himekishi wa Barbaroi no Yome
+      directory: Himekishi wa Barbaroi no Yome/Season 01
+
     # Sat. 00:30. 별명따위
     # https://anissia.net/anime?animeNo=3100
     - match: Tensei Shitara Slime Datta Ken
