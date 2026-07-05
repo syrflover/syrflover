@@ -47,6 +47,11 @@
     - match: Lv999 no Murabito
       directory: Lv999 no Murabito/Season 01
 
+    # Sat. 20:00. 카이란
+    # https://anissia.net/anime?animeNo=3005
+    - match: Mushoku Tensei S3
+      directory: Mushoku Tensei/Season 03
+
     #
     # Q. 2026/2
     #
