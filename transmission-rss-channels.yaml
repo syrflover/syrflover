@@ -42,7 +42,7 @@
     # Q. 2026/3
     #
 
-    # Mon. 00:30. xx
+    # Mon. 00:30. 하느
     # https://anissia.net/anime?animeNo=2969
     - match: Sayonara Lara
       directory: Sayonara Lara/Season 01
@@ -81,6 +81,11 @@
     # https://anissia.net/anime?animeNo=3308
     - match: Lv999 no Murabito
       directory: Lv999 no Murabito/Season 01
+
+    # Fri. 00:00. 하느
+    # https://anissia.net/anime?animeNo=2501
+    - match: Mebius Dust
+      directory: Mebius Dust/Season 01
 
     # Fri. 02:30. xx
     # https://anissia.net/anime?animeNo=3491
