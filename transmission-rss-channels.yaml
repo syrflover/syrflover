@@ -87,7 +87,7 @@
     - match: Mebius Dust
       directory: Mebius Dust/Season 01
 
-    # Fri. 02:30. xx
+    # Fri. 02:30. 별명따위
     # https://anissia.net/anime?animeNo=3491
     - match: Otome Kaijuu Carameliser
       directory: Otome Kaijuu Carameliser/Season 01
@@ -102,7 +102,7 @@
     - match: Mushoku Tensei S3
       directory: Mushoku Tensei/Season 03
 
-    # Sun. 01:00. xx
+    # Sun. 01:00. namelesssub
     # https://anissia.net/anime?animeNo=3293
     - match: Grow Up Show - Himawari no Circus-dan
       directory: Grow Up Show - Himawari no Circus-dan/Season 01
