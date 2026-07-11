@@ -57,6 +57,11 @@
     - match: World Is Dancing
       directory: World Is Dancing/Season 01
 
+    # Tue. 20:30. 카이란
+    # https://anissia.net/anime?animeNo=2316
+    - match: Tai-Ari deshita. Ojousama wa Kakutou Game nante Shinai
+      directory: Tai-Ari deshita. Ojousama wa Kakutou Game nante Shinai/Season 01
+
     # Tue. 21:30. 카이란
     # https://anissia.net/anime?animeNo=3223
     - match: Kimi ga Shinu made Koi wo Shitai
@@ -96,6 +101,11 @@
     # https://anissia.net/anime?animeNo=3415
     - match: Kore Kaite Shine
       directory: Kore Kaite Shine/Season 01
+
+    # Sat. 01:30. 에루샤
+    # https://anissia.net/anime?animeNo=3485
+    - match: Hell Mode S2
+      directory: Hell Mode/Season 02
 
     # Sat. 20:00. 카이란
     # https://anissia.net/anime?animeNo=3005
