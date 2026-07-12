@@ -122,6 +122,11 @@
     - match: Tenmaku no Jaadugar
       directory: Tenmaku no Jaadugar/Season 01
 
+    # Sun. 02:30. C소라
+    # https://anissia.net/anime?animeNo=3490
+    - match: Hanaori-san wa Tensei shitemo Kenka ga Shitai
+      directory: Hanaori-san wa Tensei shitemo Kenka ga Shitai/Season 01
+
     # Sun. 03:10. C소라
     # https://anissia.net/anime?animeNo=3435
     - match: Saijo no Osewa
