@@ -107,6 +107,11 @@
     - match: Kore Kaite Shine
       directory: Kore Kaite Shine/Season 01
 
+    # Sat. 01:00. 에텔레로사
+    # https://anissia.net/anime?animeNo=3111
+    - match: Nige Jouzu no Wakagimi S2
+      directory: Nige Jouzu no Wakagimi/Season 02
+
     # Sat. 01:30. 에루샤
     # https://anissia.net/anime?animeNo=3485
     - match: Hell Mode S2
