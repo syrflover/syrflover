@@ -102,6 +102,11 @@
     - match: Otome Kaijuu Carameliser
       directory: Otome Kaijuu Carameliser/Season 01
 
+    # Fri. 23:00. 에루샤
+    # https://anissia.net/anime?animeNo=3336
+    - match: Kokoore
+      directory: Kokoore/Season 01
+
     # Sat. 00:35. xx
     # https://anissia.net/anime?animeNo=3415
     - match: Kore Kaite Shine
